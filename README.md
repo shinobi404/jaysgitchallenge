@@ -1,4 +1,4 @@
-# Congrats Ray, you just cloned your first repo.
+# Congrats Jay, you just cloned your first repo.
 
 ### Your next challenge
 
