@@ -1,0 +1,19 @@
+{
+  "name": "jaysgitchallenge",
+  "version": "1.0.0",
+  "description": "a test for jay to learn git",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinobi404/jaysgitchallenge.git"
+  },
+  "author": "joortiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shinobi404/jaysgitchallenge/issues"
+  },
+  "homepage": "https://github.com/shinobi404/jaysgitchallenge#readme"
+}
