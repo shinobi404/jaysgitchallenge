@@ -8,4 +8,10 @@
 
 #### open up this file and change this name above
 
-#### then run these commands `git add .` then run `git commit -m "my first commit"` then run `git push`
+#### then run these commands:
+
+`git add .`
+
+`git commit -m "my first commit"`
+
+`git push`
